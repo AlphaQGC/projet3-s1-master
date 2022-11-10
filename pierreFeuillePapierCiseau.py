@@ -26,5 +26,5 @@
         #alors on renvoie "Vous avez gagné ! :)"
     #Sinon on renvoie "Vous avez perdu ! :("
 
-
+#Executer la fonction game pour lancer le pierre, papier, ciseau
 #FIN
